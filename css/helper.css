@@ -1,0 +1,77 @@
+:root{
+    font-size: 62.5%;
+}
+
+html {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.user-name {
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    color: #FFFFFF;
+}
+
+.Jeanette .user-name, .Kira .user-name {
+    color: #48556A;
+}
+
+.is-verified {
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.Jeanette .is-verified,  .Kira .is-verified {
+    color: #48556A;
+}
+
+.testimonial-brief {
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2.4rem;
+    color: #FFFFFF;
+}
+
+.Jeanette .testimonial-brief,  .Kira .testimonial-brief {
+    color: #48556A;
+}
+
+.Patrick .testimonial-brief {
+    color: #ECF2F8;
+}
+
+.testimonial-article {
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+    color: #CFCFCF;
+    opacity: 0.7;
+}
+
+.Jonathan .testimonial-article, .Patrick .testimonial-article {
+    color: #FFFFFF;
+}
+
+.Jeanette .testimonial-article, .Kira .testimonial-article {
+    color: #48556A;
+}
+
+.Daniel {
+    background: #733FC8;
+}
+
+.Jonathan {
+    background: #48556A;
+}
+
+.Jeanette, .Kira {
+    background: #FFFFFF;
+}
+
+.Patrick {
+    background: #19202D;
+}
